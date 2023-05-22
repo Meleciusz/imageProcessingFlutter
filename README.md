@@ -1,16 +1,34 @@
-# imageprocessing
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Build](#build)
+* [TODO](#todo)
+* [Look](#look)
 
-A new Flutter project.
+## General info
+Flutter image processing project
+	
+## Technologies
+Project is created with:
+* Flutter
+* Dart
+* TenserFlow
+* .tflite model
+* Android Studio 
 
-## Getting Started
+## Build
+What user can do now(23.05.2023):
+* Make a picture
+* Check (by the basic model) what is on the picture 
 
-This project is a starting point for a Flutter application.
+## TODO
+Next updates:
+* Better text display 
+* Model created by me with python library(tenserflow)
 
-A few resources to get you started if this is your first Flutter project:
+## Look
+Actual(23.05.2023) look of the application 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/Meleciusz/imageProcessingFlutter/assets/72231498/8a20c5ac-ccbc-49f4-898a-82a7931a0b5b)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Meleciusz/imageProcessingFlutter/assets/72231498/e860979f-1085-4e0d-9a34-e98a2d3bb303)
